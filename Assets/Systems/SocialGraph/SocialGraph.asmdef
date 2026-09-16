@@ -1,0 +1,14 @@
+{
+    "name": "SkullHollow.Systems.SocialGraph",
+    "rootNamespace": "SkullHollow.Systems.SocialGraph",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

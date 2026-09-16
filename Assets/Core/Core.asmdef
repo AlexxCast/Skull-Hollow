@@ -1,0 +1,24 @@
+{
+    "name": "SkullHollow.Core",
+    "rootNamespace": "SkullHollow.Core",
+    "references": [
+        "SkullHollow.Systems.SocialGraph",
+        "SkullHollow.Systems.GateLogic",
+        "SkullHollow.Systems.SemanticLayer",
+        "SkullHollow.Systems.CinematicLayer",
+        "SkullHollow.Systems.MissionSystem",
+        "SkullHollow.Systems.AIDirector",
+        "SkullHollow.World.SimulatedCity",
+        "SkullHollow.World.VisitableCity",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

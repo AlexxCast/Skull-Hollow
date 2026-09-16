@@ -1,0 +1,16 @@
+{
+    "name": "SkullHollow.Systems.AIDirector",
+    "rootNamespace": "SkullHollow.Systems.AIDirector",
+    "references": [
+        "SkullHollow.Systems.SocialGraph"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

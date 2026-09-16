@@ -1,0 +1,16 @@
+{
+    "name": "SkullHollow.World.SimulatedCity",
+    "rootNamespace": "SkullHollow.World.SimulatedCity",
+    "references": [
+        "SkullHollow.Systems.SocialGraph"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

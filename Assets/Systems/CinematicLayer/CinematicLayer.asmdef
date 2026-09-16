@@ -1,0 +1,14 @@
+{
+    "name": "SkullHollow.Systems.CinematicLayer",
+    "rootNamespace": "SkullHollow.Systems.CinematicLayer",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "SkullHollow.Systems.MissionSystem",
+    "rootNamespace": "SkullHollow.Systems.MissionSystem",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
